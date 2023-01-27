@@ -1,24 +1,16 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/mkG6boa.jpg" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>Mobile Desktop Support</h1>
+I have been doing some volunteer work, assisting a friend as he drives to customers houses and fixes their computers....In this section i will be going over some projects that i've worked on so far.<br />
 
 
-<h2>Video Demonstration</h2>
+<h2>Job Summary</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- A customer had an old HP-Z820 laying around in the basement. They wanted us to help install a new 2TB HDD. We also had to install windows for this PC, and the customer wanted us to remove the Page File from the main disk, and place it on the 120GB SSD that they currently had.
 
-<h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
-
-<h2>Operating Systems Used </h2>
-
-- Windows 10</b> (21H2)
 
 <h2>List of Prerequisites</h2>
 
