@@ -71,3 +71,16 @@ Once the PC is all set up with windows, go ahead and log in. The customer wants 
 <p>
 <img src="https://i.imgur.com/Ozp3pIB.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<p>
+- We are going to select our main drive and select (No Paging File) then click SET, then OK
+- Then we will select our SSD and select (System Managed Size) then click SET, then OK
+ 
+ </p>
+<p>
+<img src="https://i.imgur.com/EqLo4b7.jpg" height="80%" width="80%" alt=""/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/w2oYSaJ.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
