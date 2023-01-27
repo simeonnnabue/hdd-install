@@ -73,13 +73,15 @@ Once the PC is all set up with windows, go ahead and log in. The customer wants 
 </p>
 
 <p>
-- We are going to select our main drive and select (No Paging File) then click SET, then OK
-- Then we will select our SSD and select (System Managed Size) then click SET, then OK
+We are going to select our main drive and select (No Paging File) then click SET, then OK...
+Then we will select our SSD and select (System Managed Size) then click SET, then OK
  
  </p>
 <p>
 <img src="https://i.imgur.com/EqLo4b7.jpg" height="80%" width="80%" alt=""/>
 </p>
+
+After that go ahead and restart your computer. Now you have a 2TB HDD, and your Windows Page File is running off your SSD, this will help optomize system performance.
 <p>
 <p>
 <img src="https://i.imgur.com/w2oYSaJ.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
