@@ -23,6 +23,7 @@ I have been doing some volunteer work, assisting a friend as he drives to custom
 - Go in to (System Properties) - (Advanced Performance Settings) - Click Change on Virtual Memory
 - make sure Both Disks show up on the list
 - select (No Paging File) for our main disk, and select (System Managed Size) for the SSD that we formatted
+- Restart PC
 
 <h2>Installation Steps</h2>
 
