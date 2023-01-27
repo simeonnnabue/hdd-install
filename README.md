@@ -62,6 +62,6 @@ We have Windows 10 loaded on to a Thumbdrive, but before we insert that and inst
 <img src="https://i.imgur.com/0Ed7atp.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p> 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once the PC is all set up with windows, go ahead and log in. The customer wants us to move the Page File to the SSD to help with performance. first we will open up computer management, then click on disk management. we will need to check to see which disks pop up, in our case only the 2TB HDD, so we had to format the SSD and add it to the computer. We gave the disk drive the letter X. Now that we have both disks showing up, we can go into System Properties - Performance Settings - click andvanced, then click Change on Virtual Memory
 </p>
 <br />
