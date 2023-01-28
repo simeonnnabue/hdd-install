@@ -28,7 +28,7 @@ I have been doing some volunteer work, assisting a friend as he drives to custom
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/XprE1n2.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XprE1n2.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 We are going to open up this case and blow out all the dust with the air compressor, then we will take our new HDD along with their current SSD and get ready to slide those in to the drive bay
