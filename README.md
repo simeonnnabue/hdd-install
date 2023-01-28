@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/mkG6boa.jpg" alt="osTicket logo"/>
+<img src="https://i.imgur.com/mkG6boa.jpg" alt="osTicket logo"/> 
 </p>
 
 <h1>Mobile Desktop Support</h1>
