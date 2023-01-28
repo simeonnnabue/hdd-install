@@ -51,7 +51,7 @@ We are going to open up this case and blow out all the dust with the air compres
 </p>
 
 <p>
-We have Windows 10 loaded on to a Thumbdrive, but before we insert that and install Windows, we are going to boot up the PC and go into BIOS to check the boot order, and see if the PC is recognizing the drives we installed. After that restart the computer, and proceed with Windows installation
+We have Windows 10 loaded on to a Thumbdrive, but before we insert that and install Windows, we are going to boot up the PC and go into BIOS to check the boot order, and see if the PC is recognizing the drives we installed. After that, restart the computer, and proceed with Windows installation
 </p>
 <br />
 
